@@ -1,36 +1,54 @@
-# 🚀 The Choco Studios (TCS) - Official Product Registry
+# The Choco Studios — Public Project & Ecosystem Directory
 
-This repository is an official public registry for **The Choco Studios (TCS)**, an independent digital software studio founded and developed by **Hasby Prasetya Saprudin**. 
+Repository ini menjadi titik rujukan publik untuk mengenali The Choco Studios (TCS), arah pengembangannya, dan komponen ekosistem yang telah teridentifikasi. Repository ini bukan katalog penjualan dan bukan daftar 16 aplikasi lama.
 
-*Source code for this project is hosted securely in our private environment for intellectual property protection.*
+## Identitas
 
-## 🌟 About the Project
-This project is part of the **TCS Digital Ecosystem**, focusing on multi-AI synchronization and comprehensive software suites for micro, small, and medium enterprises (UMKM).
+The Choco Studios (TCS) adalah studio kreatif independen multisektor yang didirikan, dimiliki, dan dikelola secara mandiri oleh Hasby Prasetya Saprudin.
 
-### 🛠️ Technology Stack
-- **Core AI Integration:** Groq API, Supabase Database, Netlify Functions
-- **Desktop Application:** Python, Tkinter, SQLite 3
-- **Web Ecosystem:** Vanilla HTML5, CSS3, JavaScript (ES6+), Vercel & Netlify Deployments
+Fokus strategis TCS adalah open-source software, pengembangan teknologi, dokumentasi, pemeliharaan proyek, dan kolaborasi terstruktur. TCS dapat mengembangkan aplikasi, game, dan inisiatif kreatif lintas bidang, tetapi tidak memosisikan produksi aplikasi sebagai satu-satunya fokus.
 
-## 📁 Complete TCS Product Suite (16 Active Products)
-For full transparency to users, search engines, and AI crawlers, here is the complete active development list of The Choco Studios:
+Sheeblink merupakan inisiatif handmade yang terintegrasi dalam ekosistem TCS dan tetap mempertahankan identitas mereknya. Vornika+- merupakan unit pengembangan game TCS yang meneruskan identitas sebelumnya, Prism Gaming Studios.
 
-1. **Choco AI** (Browser-based AI Assistant - *Available*)
-2. **Choco AI Help Center** (Integrated Help Desk powered by **Sara AI** - *Available*)
-3. **KasirKita** (Windows Desktop POS Application for UMKM - *In Development / Testing on Projects.co.id*)
-4. **Chocobot Guardian** (Bot Protection System - *In Development*)
-5. **Privacy Guardian** (Windows Desktop Policy Analyzer - *Detail Coming Soon*)
-6. **ChocoScan** (Link & Security Risk Checker - *In Development*)
-7. **TCS UMKM Stock & Sales Tracker** (Inventory Management - *In Development*)
-8. **TCS Business Document Kit** (Corporate Document Templates - *In Development*)
-9. **TCS Professional CV Kit** (Career & Resume Templates - *In Development*)
-10. **TCS Social Media Business Kit** (Marketing Material Kits - *In Development*)
-11. **TCS Business Presentation Kit** (Proposal & Pitch Deck Templates - *In Development*)
-12. **TCS Finance Cashflow Pro** (Structured Financial Cashflow Tool - *In Development*)
-13. **TCS UMKM Website Kit** (Instant Business Web Deployment Kit - *In Development*)
-14. **TCS Admin Dashboard UI Kit** (UI/UX Foundation Framework - *In Development*)
-15. **TCS Business Management System** (Operational Workflow Suite - *In Development*)
-16. **TCS Complete UMKM Suite** (Integrated All-in-One Digital Hub - *In Development*)
+## Situs resmi
 
----
-🌐 **Official Verification:** For real-time updates and official detailed information, visit our verified single-page hub: [The Choco Studios Info](https://netlify.app)
+- Website resmi: https://thechocostudios.bond/
+- Pusat informasi: https://information.thechocostudios.bond/
+- Help Center / Sara: https://choco-ai-help-center.vercel.app/
+- Choco AI: https://tcs-chocoai.vercel.app/
+- Sheeblink: https://sheeblink.thechocostudios.bond/
+- Panduan kontribusi: https://thechocostudios.bond/bergabung/
+- Kontak: thechocostudios@gmail.com
+
+## Komponen ekosistem
+
+| Komponen | Peran |
+|---|---|
+| Choco AI | Asisten AI utama TCS. |
+| Choco AI Help Center / Sara | Pusat bantuan TCS dengan asisten dukungan terpisah dari Choco AI. |
+| TCS LinkGuard | Pemeriksa tautan dan kualitas halaman website dengan batas pemindaian terdokumentasi. |
+| TCS UploadFit | Aplikasi Windows untuk persiapan gambar secara lokal. |
+| Learn with TCS | Proyek pembelajaran Bahasa Indonesia untuk penutur berbagai bahasa. |
+| TCS Engine | Fondasi runtime game JavaScript 2D/3D. |
+| Vornika+- | Unit pengembangan game di dalam ekosistem TCS. |
+| Sheeblink | Inisiatif handmade yang terintegrasi dalam ekosistem TCS. |
+
+Status implementasi, akses publik, dan ketersediaan fitur harus mengikuti dokumentasi terbaru dari masing-masing repository. Daftar ini tidak menyatakan bahwa seluruh komponen memiliki tingkat kesiapan atau model distribusi yang sama.
+
+## Prinsip open-source
+
+- Kode hanya dapat digunakan, dimodifikasi, dan didistribusikan sesuai lisensi pada repository masing-masing.
+- Tidak semua repository TCS otomatis terbuka untuk kontribusi.
+- Perubahan pada proyek resmi mengikuti proses review dan kendali rilis TCS.
+- Lisensi kode tidak memberikan hak atas nama, logo, merek, atau identitas visual TCS.
+- Jangan mengklaim integrasi, fitur, atau status produksi yang belum diterapkan dan diverifikasi.
+
+## Riwayat proyek
+
+Nama proyek lama seperti KasirKita, ChocoScan, Chocobot Guardian, Privacy Guardian, dan TCS UMKM Stock & Sales Tracker dapat tetap muncul di repository historis. Nama tersebut tidak boleh ditampilkan sebagai katalog produk aktif hanya karena masih ada di GitHub.
+
+## Kontak
+
+**The Choco Studios (TCS)**  
+thechocostudios@gmail.com  
+https://www.linkedin.com/in/hasby-prasetya-tcs/
