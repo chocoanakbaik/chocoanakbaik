@@ -14,8 +14,8 @@ Sheeblink merupakan inisiatif handmade yang terintegrasi dalam ekosistem TCS dan
 
 - Website resmi: https://thechocostudios.bond/
 - Pusat informasi: https://information.thechocostudios.bond/
-- Help Center / Sara: https://choco-ai-help-center.vercel.app/
-- Choco AI: https://tcs-chocoai.vercel.app/
+- Help Center / Sara: https://helpcenter.thechocostudios.bond/
+- Choco AI: https://chocoai.thechocostudios.bond/
 - Sheeblink: https://sheeblink.thechocostudios.bond/
 - Panduan kontribusi: https://thechocostudios.bond/bergabung/
 - Kontak: thechocostudios@gmail.com
